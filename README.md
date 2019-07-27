@@ -5,10 +5,10 @@ Some raspberry sippets
 ## getting started
 https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/4
 
-## Starter projects
+## Starter projects ( read camera input )
 https://picamera.readthedocs.io/en/release-1.10/recipes1.html
 
-## using inputs
+## Reading inputs ( ex: button press )
 https://raspberrypihq.com/use-a-push-button-with-raspberry-pi-gpio/
 
 ## read from photoresistor
