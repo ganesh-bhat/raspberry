@@ -20,3 +20,4 @@ https://www.instructables.com/id/Raspberry-Pi-GPIO-Circuits-Using-an-LDR-Analogu
 
 ## resistor color code computer
 https://www.digikey.in/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band
+https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/
