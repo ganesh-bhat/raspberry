@@ -1,4 +1,4 @@
-# raspberry
+# Raspberry
 Some raspberry sippets
 
 # useful links
@@ -18,4 +18,5 @@ https://ttrzpit.wordpress.com/2015/06/12/measuring-light-with-the-raspberry-pi-a
 
 https://www.instructables.com/id/Raspberry-Pi-GPIO-Circuits-Using-an-LDR-Analogue-S/
 
-
+## resistor color code computer
+https://www.digikey.in/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band
